@@ -18,6 +18,15 @@ The frontend Typescript React web app connects to a REST API which is a ASP.NET 
 
 The server uses the Entity Framework to connect to an instance of Azure SQL database in a serverless configuration.
 
+Backend code is at https://github.com/GeorgeCLu/MSA_Race_ReviewAPI
+
+SignalR chat code is at https://github.com/GeorgeCLu/racereviewchat_signalR
+
+Links to folder containing completed Microsoft Learn modules and demo video:
+https://drive.google.com/drive/folders/1BDGsVCO6WIxaiVE4gxv2SqvSlKcXgUup?usp=drive_link
+
+Individual link to demo video (Apologies audio may not be great, please see the readme for a further explanation of the features:
+https://drive.google.com/file/d/15-_9evaxLcczfSfHqCN0-sSmJ4WpzYNU/view?usp=drive_link
 
 Current functionality listed below.
 
@@ -41,7 +50,7 @@ Advanced features:
   <li>Deployed using Azure (Using Azure web apps)</li>
 </ul> 
 
-Most proud of the reali-time chat functionality, built using SignalR
+Most proud of the real-time chat functionality, built using SignalR, as well as as the voice recogition for the reviews
 
 There is a desktop view and a mobile view where the tackbar collapses to a drawer.
 ![Alt text](reademeImages/32.png)<br/><br/>
