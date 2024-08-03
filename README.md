@@ -21,6 +21,28 @@ The server uses the Entity Framework to connect to an instance of Azure SQL data
 
 Current functionality listed below.
 
+Basic features:
+<ul>
+  <li>React Project using Typescript</li>
+  <li>Uses Material UI</li>
+  <li>Responsive on both desktop and mobile</li>
+  <li>React Route</li>
+  <li>Git usage (both front and backend)</li>
+  <li>Built using C# using .NET CORE 6</li>
+  <li>Uses EFCore</li>
+  <li>Persists data using to a SQL database in Azure</li>
+  <li>CRUD operations</li>
+</ul> 
+
+Advanced features:
+<ul>
+  <li>Usage of web sockets (Uses SignalR, which is built on top of web sockets</li>
+  <li>Use of AI technologies in your project (Uses voice recognition to transcribe speech to txt, so it can be posted for a review</li>
+  <li>Deployed using Azure (Using Azure web apps)</li>
+</ul> 
+
+Most proud of the reali-time chat functionality, built using SignalR
+
 There is a desktop view and a mobile view where the tackbar collapses to a drawer.
 ![Alt text](reademeImages/32.png)<br/><br/>
 ![Alt text](reademeImages/36.png)<br/><br/>
